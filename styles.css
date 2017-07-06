@@ -1,6 +1,8 @@
 body {
 background-color: lavender; 
 }
-img {width:40} 
+img{
+  width:40px;
+} 
 
 
